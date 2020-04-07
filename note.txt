@@ -1,0 +1,4 @@
+1.innerText
+2.innerHTML
+3.style
+4.classList.remove() | classList.add() | classList.toggle()
